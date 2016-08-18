@@ -1,0 +1,17 @@
+{
+    "name": "holtwoodonesc-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/holtwoodonesc-bower.git"
+    },
+    "description": "Holtwood One SC font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
